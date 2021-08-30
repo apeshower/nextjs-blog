@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
 
         <main>
           <h1 className="title">
-            Read{' '}
+            Readdd{' '}
             <Link href="/posts/first-post">
               <a>this page!</a>
             </Link>
